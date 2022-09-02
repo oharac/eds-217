@@ -3,3 +3,4 @@
 *.html
 exercises/_answerkeys
 .DS_Store
+.Rproj.user
